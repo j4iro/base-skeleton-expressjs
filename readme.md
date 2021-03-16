@@ -2,7 +2,7 @@
 
 **Contains**
 
-1. Logger: [Winston](https://https://www.npmjs.com/package/winston)
+1. Logger: [Winston](https://www.npmjs.com/package/winston)
 2. Linter: [Eslint](https://eslint.org/)
 
 **Skeleton**
